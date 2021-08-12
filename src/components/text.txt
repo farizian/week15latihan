@@ -1,0 +1,5 @@
+id: 3,
+picture: "https://raw.githubusercontent.com/farizian/week10/master/tugas1/img/cappucinos.png",
+product_name: "Cappucino",
+price: 5000,
+qty: 1,
